@@ -14,6 +14,9 @@ Cost: about **$0.50 per weekly run** on Claude Sonnet 4.6 (20 items × ~2¢
 each). No database, no containers, no cloud infra beyond the public APIs
 it reads.
 
+> **Why this exists — read this first**
+> [Claude Scout — how we built it (explainer)](https://claude.ai/code/artifact/2c227be6-addd-4b9c-958f-755690365608) — the design writeup for someone AI-savvy but new to implementation. Covers the problem, the seven-step loop, the vet prompt design (the clever bit), a real sample of the newsletter output, and the full stack in one paragraph. Read this before the code.
+
 ---
 
 ## Setup (10 minutes)
