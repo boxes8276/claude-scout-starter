@@ -1,0 +1,19 @@
+# Secrets — NEVER commit
+.env
+stack.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Generated output
+reports/
+*.log
+
+# Editor
+.vscode/
+.idea/
+.DS_Store
